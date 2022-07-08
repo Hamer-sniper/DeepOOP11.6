@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Changes>
+  <Change>
+    <dateTimeChange>08.07.2022 16:05:33</dateTimeChange>
+    <dataChanged>Поле 1</dataChanged>
+    <typeOfChanges>Изменение</typeOfChanges>
+    <changer>Андрей 1</changer>
+  </Change>
+  <Change>
+    <dateTimeChange>08.07.2022 16:05:33</dateTimeChange>
+    <dataChanged>Поле 2</dataChanged>
+    <typeOfChanges>Изменение</typeOfChanges>
+    <changer>Андрей 2</changer>
+  </Change>
+  <Change>
+    <dateTimeChange>08.07.2022 16:05:33</dateTimeChange>
+    <dataChanged>Поле 3</dataChanged>
+    <typeOfChanges>Изменение</typeOfChanges>
+    <changer>Андрей 3</changer>
+  </Change>
+  <Change>
+    <dateTimeChange>08.07.2022 16:05:33</dateTimeChange>
+    <dataChanged>Поле 4</dataChanged>
+    <typeOfChanges>Изменение</typeOfChanges>
+    <changer>Андрей 4</changer>
+  </Change>
+  <Change>
+    <dateTimeChange>08.07.2022 16:05:33</dateTimeChange>
+    <dataChanged>Поле 5</dataChanged>
+    <typeOfChanges>Изменение</typeOfChanges>
+    <changer>Андрей 5</changer>
+  </Change>
+  <Change>
+    <dateTimeChange>08.07.2022 16:05:33</dateTimeChange>
+    <dataChanged>Поле 6</dataChanged>
+    <typeOfChanges>Изменение</typeOfChanges>
+    <changer>Андрей 6</changer>
+  </Change>
+  <Change>
+    <dateTimeChange>08.07.2022 16:05:33</dateTimeChange>
+    <dataChanged>Поле 7</dataChanged>
+    <typeOfChanges>Изменение</typeOfChanges>
+    <changer>Андрей 7</changer>
+  </Change>
+  <Change>
+    <dateTimeChange>08.07.2022 16:05:33</dateTimeChange>
+    <dataChanged>Поле 8</dataChanged>
+    <typeOfChanges>Изменение</typeOfChanges>
+    <changer>Андрей 8</changer>
+  </Change>
+  <Change>
+    <dateTimeChange>08.07.2022 16:05:33</dateTimeChange>
+    <dataChanged>Поле 9</dataChanged>
+    <typeOfChanges>Изменение</typeOfChanges>
+    <changer>Андрей 9</changer>
+  </Change>
+  <Change>
+    <dateTimeChange>08.07.2022 16:06:16</dateTimeChange>
+    <dataChanged>All</dataChanged>
+    <typeOfChanges>Creation</typeOfChanges>
+    <changer>Manager</changer>
+  </Change>
+</Changes>
